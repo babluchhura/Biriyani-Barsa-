@@ -1,0 +1,6 @@
+{
+  "name": "Biriyani Barsa",
+  "description": "Premium online biryani and food ordering app with customer dining & delivery and private restaurant admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
